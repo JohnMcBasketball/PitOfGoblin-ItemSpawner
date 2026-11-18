@@ -1,7 +1,7 @@
 {
   "name": "POG_item_spawner",
   "version_number": "1.0.0",
-  "website_url": "",
+  "website_url": "https://github.com/JohnMcBasketball/PitOfGoblin-ItemSpawner",
   "description": "In-game item spawner, f5 to open",
   "dependencies": [
     "LavaGang-MelonLoader-0.7.2"
