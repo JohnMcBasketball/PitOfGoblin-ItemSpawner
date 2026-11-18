@@ -1,9 +1,13 @@
+
 # POG Item Spawner
 
 An in-game item spawner menu for **Pit of Goblin** that lets hosts spawn any item directly into the world or onto their player.
 
 ---
+## Disclaimer
 
+- **AI:** This was developed fully by AI as i cannot code for the life of me (expect bugs)
+---
 ## Features
 
 - **Searchable Item List:** Press `F5` to open the overlay and type to filter items in real time.
