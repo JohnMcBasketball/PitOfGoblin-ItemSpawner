@@ -10,7 +10,12 @@ An in-game item spawner menu for **Pit of Goblin** that lets hosts spawn any ite
 - **Flexible Spawning:** Spawn items directly into the **World** in front of you or straight onto your **Player**.
 
 ---
+## current Bugs
 
+- **search bar interact:** The search bar pick up all keyboard inputs when the menu is opened
+- **player spawn:** spawning in the players inventory does not work 99% of the time currently
+
+---
 ## Requirements
 
 - **MelonLoader** (Required)
